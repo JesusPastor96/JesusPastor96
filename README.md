@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 
 Soy un desarrollador **Full Stack** con un trasfondo multicultural y multidisciplinar que define mi enfoque profesional. Tras más de seis años de experiencia internacional en Londres liderando equipos y coordinando operaciones logísticas complejas, decidí volcar toda mi resiliencia y capacidad de adaptación en mi verdadera vocación: la tecnología, graduándome en **Desarrollo de Aplicaciones Web (DAW)**.
 
@@ -20,7 +20,7 @@ Soy un desarrollador **Full Stack** con un trasfondo multicultural y multidiscip
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+###  Mi Stack Tecnológico
 
 #### 🟢 Backend & Datos
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
