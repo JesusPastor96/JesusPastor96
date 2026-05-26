@@ -46,6 +46,6 @@ Soy un desarrollador **Full Stack** con un trasfondo multicultural y multidiscip
 ---
 
 <div align="center">
-  <p><i>"La frase más dañina en el idioma es: 'Siempre se ha hecho así'."</i></p>
-  <p>— <strong>Grace Hopper</strong></p>
+  <p><i>"La mejor manera de predecir el futuro es inventarlo."</i></p>
+  <p>— <strong>Alan Kay</strong></p>
 </div>
