@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Soy Jesús</h1>
+  <h3>Full Stack Developer 💻</h3>
+</div>
 
-<!--
-**JesusPastor96/JesusPastor96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+* 💼 Desarrollador Full Stack con experiencia real en entornos de producción.
+* 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW).
+* 📫 Me puedes contactar en: jesus.pastor.ricoy@gmail.com
+* 💻 Me puedes encontrar en: [LinkedIn](https://www.linkedin.com/in/jesús-pastor-ricoy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack Tecnológico
+* **Backend:** Java, Spring Boot, Python, Django, SQL.
+* **Frontend:** Angular, React, Next.js, TypeScript, Tailwind CSS.
+* **Infraestructura:** Docker, Apache2, Linux.
