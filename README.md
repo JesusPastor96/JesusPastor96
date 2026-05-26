@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Jesús Pastor Ricoy</h1>
+  <h1> ¡Hola! Soy Jesús Pastor </h1>
   <p><strong>Full Stack Developer | Apasionado por la arquitectura limpia y la infraestructura</strong></p>
 
   <p>
