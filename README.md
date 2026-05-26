@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Soy Jesús</h1>
+  <h1> Soy Jesús</h1>
   <h3>Full Stack Developer 💻</h3>
 </div>
 
