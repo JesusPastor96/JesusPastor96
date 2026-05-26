@@ -44,14 +44,6 @@ Soy un desarrollador **Full Stack** con un trasfondo multicultural y multidiscip
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusPastor96&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de Jesús" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusPastor96&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180px">
-</div>
-
 ---
 
 <div align="center">
