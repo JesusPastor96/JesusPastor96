@@ -44,8 +44,8 @@ Soy un desarrollador **Full Stack** con un trasfondo multicultural y multidiscip
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
----
 
 <div align="center">
-  <p><i>"Cuestionar lo establecido para mejorar los procesos y construir soluciones eficientes."</i></p>
+  <p><i>"La frase más dañina en el idioma es: 'Siempre se ha hecho así'."</i></p>
+  <p>— <strong>Grace Hopper</strong></p>
 </div>
